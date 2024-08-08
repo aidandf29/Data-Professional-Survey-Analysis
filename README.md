@@ -33,7 +33,7 @@ This project analyzes survey data from data professionals across various roles a
    - Create visualizations to illustrate the distribution of roles, salaries, industries, and job preferences.
 
 ### Data Cleaning, EDA, and Visualization:
-I have performed data cleaning and exploratory data analysis (EDA) to ensure the quality and reliability of the dataset. Additionally, I have created sample visualizations using Power BI to present insights visually. Below is the cleaned dataset and visualizations, ready for further analysis.
+I have performed data cleaning and exploratory data analysis (EDA) to ensure the quality and reliability of the dataset. Additionally, I have created sample visualizations using Power BI to present insights visually. Below is the raw dataset and visualizations, ready for further analysis.
 
 ---
 
